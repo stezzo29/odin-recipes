@@ -1,2 +1,8 @@
 # odin-recipes
-Odin Project recipe site project
+
+Welcome!
+
+This is my Odin Recipes project, where I will demonstrate my HTML, git, 
+and GitHub skills.
+
+
